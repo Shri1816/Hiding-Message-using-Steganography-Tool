@@ -1,4 +1,6 @@
 # Hiding-Message-using-Steganography-Tool
+pip install -r requirements.txt
+run--python steganography_app.py
 Message is hidden in image with AES encryption
 #steps
 Enter message to be hidden
