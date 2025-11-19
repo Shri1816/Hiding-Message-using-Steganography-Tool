@@ -1,0 +1,3 @@
+Pillow---PIL
+Cryptography
+Tkinter
